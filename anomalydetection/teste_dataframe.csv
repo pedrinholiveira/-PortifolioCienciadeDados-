@@ -1,0 +1,21 @@
+﻿vendedor;tipo;clientes_insatisfeitos;tempo_atendimento (min);região
+pedro;private;10;1;SP
+augusto;personalite;18;10;SP
+joão;personalite;14;10;SP
+gabriel;uniclass;40;10;SP
+matheus;personalite;34;5;RJ
+lucas;personalite;30;3;RJ
+fernando;private;1;10;SP
+gilberto;private;2;8;SP
+afonso;personalite;15;12;RJ
+natanael;uniclass;45;14;RJ
+rubens;uniclass;43;15;RJ
+bernardo;uniclass;46;13;SP
+caetano;private;1;12;RJ
+filipe;personalite;12;12;RJ
+jacó;personalite;10;14;RJ
+israel;uniclass;48;5;RJ
+judas;personalite;10;12;RJ
+marcel;uniclass;93;4;SP
+alan;private;8;2;RJ
+bruno;private;1;2;RJ

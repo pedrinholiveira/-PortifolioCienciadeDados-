@@ -1,0 +1,24 @@
+*Conceito de cada campo*
+
+
+Date Data da reserva
+Time Hora da reserva
+Booking ID Identificador exclusivo para cada reserva da viagem
+Booking status Status da reserva
+Customer ID Identificador único para clientes
+Vehicle Type Tipo de veiculo
+Pickup Location Tipo de veiculo (Go Mini, Go Sedan, Auto, eBike/Bike, UberXL, remier Sedan)
+Drop Location Local de destino do passeio
+Avg VTAT Tempo médio do veículo na chegada
+Avg CTAT Tempo médio de chegada do cliente
+Cancelled Rides by Customer Sinalizador de cancelamento iniciado pelo cliente
+Reason for cancelling by Customer Motivo do cancelamento do cliente
+Cancelled Rides by Driver Bandeira de cancelamento iniciada pelo motorista
+Driver Cancellation Reason	Motivo do cancelamento do motorista
+Incomplete Rides Bandeira de viagem incompleta
+Incomplete Rides Reason	Motivo dos passeios incompletos
+Booking Value Valor total da tarifa da viagem
+Ride Distance Distância percorrida durante o passeio (em km)
+Driver Ratings	Classificação dada ao motorista (escala de 1 a 5)
+Customer Rating	Classificação dada pelo cliente (escala de 1 a 5)
+Payment Method	Método de pagamento utilizado (UPI, dinheiro, cartão de crédito, Uber Wallet, cartão de débito)
